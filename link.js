@@ -1,1 +1,3 @@
-const offerLink = "vnd.youtube://youtube.com/redirect?event=comments&redir_token=QUFFLUhqbWZkSEZVbGJBU0tKN3N0RkczWWZHaklkRzkwUXxBQ3Jtc0tsLUtzLWQwOVVkMDlBZjJGNERYUlZEd3BEd3NFSFlJQ19jaXFfRlNQbVZYYTJ5WUJxRzhJLTZHa3JsdTluN0ZiV1EyMDhYTzJTTEFoRkZNay1tYmgxTUY4Qzc1c3NoOWYzam1JTmVlTGx0ekl3TUVpSQ&q=https%3A%2F%2Fwabqnk.palatlaldate.com%2F%3Futm_source%3Dda57dc555e50572d%26s1%3D191792%26s2%3D1849441%26j1%3D1&html_redirect=1 ";
+const offerLink = "vnd.youtube://youtube.com/redirect?event=comments&redir_token=QUFFLUhqbDN5OHZ5cGdnVEFQa1Bkc1hVYW5wbm9GWmpXQXxBQ3Jtc0trSlR6dDNncld1LWR0am0yZjNQSVJHTFAxd2JFajFNZ3VxTHlYcmZTSFRQZUJVOFRJNTNRcWtyVzJVZ1l4RlVjUWd3LVczM0tCSEFCenI3R2FzcVVkX0lZLWR6dVdCeldtbUZZRmtVR19OWkFjX3dJWQ&q=https%3A%2F%2Fxblroo.origlnaldates.com%2F%3Futm_source%3Dda57dc555e50572d%26s1%3D187579%26s2%3D1785767%26j1%3D1&html_redirect=1 ";
+
+
